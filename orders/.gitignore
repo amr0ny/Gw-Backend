@@ -1,0 +1,68 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+*.pyo
+
+# Virtualenv
+env/
+venv/
+venv/*
+ENV/
+VENV/
+.env
+.venv
+
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pyo
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# PyCharm
+.idea/
+*.idea
+
+# VS Code
+.vscode/
+
+# Distributions
+dist/
+build/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pylint
+.pylint.d/
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.nox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Django static and media files
+static/
+media/
